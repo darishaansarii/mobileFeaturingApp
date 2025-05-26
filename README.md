@@ -39,7 +39,7 @@ A simple yet interactive web application that displays mobile phone details base
 
 ## ✍️ Author
 
-Made with ❤️ by [Darishaan Ansari](https://github.com/darishaansarii)
+Made with ❤️ by [Darisha Ansari](https://github.com/darishaansarii)
 
 ---
 
